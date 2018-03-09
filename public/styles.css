@@ -1,0 +1,10 @@
+body {
+    background-color: aliceblue;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+.good {
+    background-color: #00FF00;
+}
+.bad {
+    background-color: tomato;
+}
